@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=s-kodera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-stats.vercel.app/api/wakatime?username=s-kodera&layout=compact
